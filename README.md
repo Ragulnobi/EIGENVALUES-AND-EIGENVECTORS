@@ -14,7 +14,9 @@ import numpy module
  end the program
 
 ## Program:
-```
+```python
+#Developed by: Ragul R
+#Register no.: 22003877
 import numpy as np
 a=np.array([[2,2],[1,3]])
 values,vectors=np.linalg.eig(a)
